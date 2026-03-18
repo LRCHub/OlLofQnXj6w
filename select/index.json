@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "スピラ",
+  "base_artist": "sekai",
+  "createdAt": "2026-03-18T16:16:41.476926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祈りの歌〜スピラ / Hymn - Spira",
+      "artist": "植松伸夫",
+      "has_synced": true,
+      "path": "select/01_祈りの歌〜スピラ___Hymn_-_Spira_植松伸夫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祈りの歌〜スピラ",
+      "artist": "植松伸夫",
+      "has_synced": true,
+      "path": "select/02_祈りの歌〜スピラ_植松伸夫.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祈りの歌～スピラ",
+      "artist": "Nobuo Uematsu",
+      "has_synced": true,
+      "path": "select/03_祈りの歌~スピラ_Nobuo_Uematsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祈りの歌~スピラ (Hymn of the Fayth - Spira)",
+      "artist": "Nobuo Uematsu",
+      "has_synced": true,
+      "path": "select/04_祈りの歌~スピラ_(Hymn_of_the_Fayth_-_Spira)_Nobuo_Uematsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祈りの歌～スピラ",
+      "artist": "植松伸夫",
+      "has_synced": true,
+      "path": "select/05_祈りの歌~スピラ_植松伸夫.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "祈りの歌~スピラ / Hymn - Spira",
+      "artist": "植松伸夫",
+      "has_synced": true,
+      "path": "select/06_祈りの歌~スピラ___Hymn_-_Spira_植松伸夫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スピラ",
+      "artist": "sekai",
+      "has_synced": false,
+      "path": "select/pl_01_スピラ_sekai.txt"
+    }
+  ]
+}
